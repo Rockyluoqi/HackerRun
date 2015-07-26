@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme">
+        <item name="android:textColor">#ff00ff00</item>
+    </style>
+    <style name="TextColor">
+        <item name="android:textColor">#ff00ff00</item>
+    </style>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">奔跑吧，黑客！</string>
+    <string name="main_level" />
+    <string name="menu_settings">设置</string>
+    <string name="none" />
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_terminal">终端</string>
+    <string name="title_activity_accept_offer">AcceptOfferActivity</string>
+    <string name="initial_offer">"
+        游戏背景：
+            玩家您好，我听说您是一个了不起的黑客，我这里想要雇佣您进入**处的管理系统
+        将雒齐、杜宏壮、肖建彬、罗威的成绩改成最高分，定金已经打入您的银行账户。
+        最后，希望您接受我的提议，并且，相信您能完成这次任务，祝您成功！
+
+
+        神秘莫测的雇主。。。吓尿了有木有
+
+
+        tips:
+        东北大学举办了一届空前的编程马拉松大赛（HACKATHON），让人记忆犹新，而这个游戏正是诞生在这场比赛中
+        我们团队将这个游戏迁移到了Android平台，希望得到大家的喜爱。
+        \n第一关很容易，想必难不倒你 :D
+        "</string>
+    <string name="title_activity_settings">全局设定</string>
+    <string name="title_activity_web_browser">浏览器</string>
+    <string name="web_browser_hint">输入网址</string>
+    <string name="title_activity_status">系统状态</string>
+    <string name="title_activity_editor">文件编辑器</string>
+    <string name="header_settings">全局设定</string>
+</resources>

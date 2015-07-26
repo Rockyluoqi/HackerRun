@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+                xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditText android:enabled="false"
+              android:scrollbarStyle="insideInset"
+              android:textSize="12.0sp"
+              android:textColor="#ff00ff00"
+              android:gravity="top"
+              android:id="@+id/editTextStatus"
+              android:background="#ff000000"
+              android:focusableInTouchMode="false"
+              android:scrollbars="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:cursorVisible="false"
+              android:ems="10"
+              android:layout_alignParentLeft="true"
+              android:layout_alignParentTop="true"
+              android:inputType="none"/>
+</RelativeLayout>
